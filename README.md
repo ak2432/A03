@@ -16,7 +16,7 @@ Part 2: Glossary to include these terms in a bulleted list.
 
 𝐆𝐈𝐓: Git is an open source program for tracking changes in text files. 
 
-𝐆𝐢𝐭𝐡𝐮𝐛:
+𝐆𝐢𝐭𝐡𝐮𝐛: Github is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time.
 
 𝐌𝐞𝐫𝐠𝐞: Merging takes the changes from one branch (in the same repository or from a fork), and applies them into another.
 
