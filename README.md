@@ -54,6 +54,10 @@ Part 2: Glossary to include these terms in a bulleted list.
 
 𝐒𝐨𝐮𝐫𝐜𝐞𝐬:
 
+“Commit and Push Changes to Git Repository: Webstorm.” WebStorm Help, www.jetbrains.com/help/webstorm/commit-and-push-changes.html#partial_commit. (Used for Part 1 Directions)
+
 “GitHub Glossary.” GitHub Docs, docs.github.com/en/get-started/quickstart/github-glossary.  (Used for Part 2 Glossary)
 
 “Set up A Git Repository: Webstorm.” WebStorm Help, www.jetbrains.com/help/webstorm/set-up-a-git-repository.html. (Used for Part 1 Directions)
+
+
