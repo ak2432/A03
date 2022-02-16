@@ -32,4 +32,4 @@ Part 2: Glossary to include these terms in a bulleted list.
 
 𝐒𝐨𝐮𝐫𝐜𝐞𝐬:
 
-https://docs.github.com/en/get-started/quickstart/github-glossary (Used for Part 2 Glossary)
+“GitHub Glossary.” GitHub Docs, docs.github.com/en/get-started/quickstart/github-glossary.  (Used for Part 2 Glossary)
